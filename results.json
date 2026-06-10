@@ -1,0 +1,40 @@
+{
+  "scrapedAt": "2026-06-10T15:08:25.500Z",
+  "searchConfig": {
+    "city": "Mumbai",
+    "checkIn": "2026-07-10",
+    "checkOut": "2026-07-15",
+    "adults": 2,
+    "infantAge": 1,
+    "currency": "INR",
+    "starRating": 5
+  },
+  "topHotel": {
+    "name": "Novotel Mumbai International Airport",
+    "rating": 4.8,
+    "reviewCount": 8022,
+    "stars": 5,
+    "address": "Mumbai"
+  },
+  "lowestPrice": {
+    "platform": "Booking.com",
+    "pricePerNight": 13098,
+    "totalPrice": 65491,
+    "nights": 5,
+    "bookingUrl": "https://www.google.com/travel/clk?pc=AA80OsxG1Rlh7w7_41wpp2DB7eXzQHAG9OCIyT6vKWeHopO7PwvPmXD72EjQ1AKtQRc8Ckk9aVdTz4B0X8Csu0bryPdBeNc9UUOxR9qJbxIe8MxbAbtuypCyzp9Iaw7LF6UncAgnA8bTKzXsU8SaY2o4vxd3-Xbmzbz8_84AtvmzvrX0Ay8k9xpJPMMjdsQh-mhnXA17Lg&pcurl=https://www.booking.com/searchresults.en.html?dest_id%3D9360612%26highlighted_hotels%3D9360612%26dest_type%3Dhotel%26checkin%3D2026-07-10%26checkout%3D2026-07-15%26group_adults%3D2%26req_adults%3D2%26show_room%3D936061207_394961741_3_42_0%26lang%3Den%26selected_currency%3DINR%26exrt%3D1.00000000%26ext_price_total%3D65490.89%26ext_price_tax%3D9990.14%26xfc%3DINR%26hca%3Dm%26group_children%3D1%26req_children%3D1%26%26age%3D1%26req_age%3D1%26no_rooms%3D1%26ts%3D1781093586%26edgtid%3Du67XcNDmQLKbGHziUVDcTA%26efpc%3DVVALdaZUkLiaEw%26utm_source%3Dmetagha%26utm_medium%3Dlocaluniversal%26utm_campaign%3DUS%26utm_term%3Dhotel-9360612%26utm_content%3Ddev-desktop_los-5_bw-30_dow-Friday_defdate-0_room-0_gstadt-2_rateid-ig_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-1_checkin-20260710_ppt-G%26aid%3D2127486%26label%3Dmetagha-link-LUUS-hotel-9360612_dev-desktop_los-5_bw-30_dow-Friday_defdate-0_room-0_gstadt-2_rateid-ig_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-1_checkin-20260710_ppt-G&s=AD1XQnnRLU9fvCndAOV-4v9VLdXX&ap=1"
+  },
+  "allPrices": [
+    {
+      "platform": "Booking.com",
+      "pricePerNight": 13098,
+      "totalPrice": 65491,
+      "bookingUrl": "https://www.google.com/travel/clk?pc=AA80OsxG1Rlh7w7_41wpp2DB7eXzQHAG9OCIyT6vKWeHopO7PwvPmXD72EjQ1AKtQRc8Ckk9aVdTz4B0X8Csu0bryPdBeNc9UUOxR9qJbxIe8MxbAbtuypCyzp9Iaw7LF6UncAgnA8bTKzXsU8SaY2o4vxd3-Xbmzbz8_84AtvmzvrX0Ay8k9xpJPMMjdsQh-mhnXA17Lg&pcurl=https://www.booking.com/searchresults.en.html?dest_id%3D9360612%26highlighted_hotels%3D9360612%26dest_type%3Dhotel%26checkin%3D2026-07-10%26checkout%3D2026-07-15%26group_adults%3D2%26req_adults%3D2%26show_room%3D936061207_394961741_3_42_0%26lang%3Den%26selected_currency%3DINR%26exrt%3D1.00000000%26ext_price_total%3D65490.89%26ext_price_tax%3D9990.14%26xfc%3DINR%26hca%3Dm%26group_children%3D1%26req_children%3D1%26%26age%3D1%26req_age%3D1%26no_rooms%3D1%26ts%3D1781093586%26edgtid%3Du67XcNDmQLKbGHziUVDcTA%26efpc%3DVVALdaZUkLiaEw%26utm_source%3Dmetagha%26utm_medium%3Dlocaluniversal%26utm_campaign%3DUS%26utm_term%3Dhotel-9360612%26utm_content%3Ddev-desktop_los-5_bw-30_dow-Friday_defdate-0_room-0_gstadt-2_rateid-ig_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-1_checkin-20260710_ppt-G%26aid%3D2127486%26label%3Dmetagha-link-LUUS-hotel-9360612_dev-desktop_los-5_bw-30_dow-Friday_defdate-0_room-0_gstadt-2_rateid-ig_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-1_checkin-20260710_ppt-G&s=AD1XQnnRLU9fvCndAOV-4v9VLdXX&ap=1"
+    },
+    {
+      "platform": "Novotel Mumbai International Airport",
+      "pricePerNight": 14223,
+      "totalPrice": 71113,
+      "bookingUrl": "https://www.google.com/travel/clk?pc=AA80OsysdUwgTC4fKI4rITQNkPnCOQcfZ5McvENBJzFLUPVdiFjCG85-r0OPUZoRIM0Oe7D8q8zIVPKdEk9TKJEGd2OR-razKh2xFgfUFsjJoikWnVAa4YbqmGCPJPK1XoMVLmkCXw0iOW5OFWcleQp_XoapFdZhBp6-UBSoTuLQnqCzGyXu-c0&pcurl=https://travel-productads.koddi.com/PropertyAdvocateAPI/ClickRedirect?client%3DAccor%26channel%3DGHPA%26placement%3Dlocaluniversal%26campaign%3D%26destinationURL%3Dhttps%253A%252F%252Fall.accor.com%252Flien_externe.svlt%253Fgoto%253Drech_resa%2526destination%253DB4C0%2526dayIn%253D10%2526monthIn%253D07%2526yearIn%253D2026%2526nightNb%253D5%2526adultNumber%253D2%2526childrenNumber%253D1%2526childrenAge0%253D1%26amp;hideWDR%3DYES%26amp;hideHotelDetails%3DYES%2526merchantid%253Dseo-meta-google%2526sourceid%253Dx-B4C0-US-cpc-desktop-selected-0--5-10-07-2026-30-Friday-localuniversal--0-1-0%2526utm_source%253Dseo_meta_google%2526utm_medium%253Dpartenariats%2526utm_campaign%253DB4C0-US-cpc-desktop-selected-0--localuniversal--0-1-0%2526wiz_campaign%253D%26amp;forceResultsList%3DYES&s=AD1XQnlj6Q8FJACBwzzr0GXN0ZYh&ap=1"
+    }
+  ]
+}

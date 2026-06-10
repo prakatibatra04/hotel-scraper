@@ -1,0 +1,24 @@
+{
+  "name": "hotel-scraper",
+  "version": "1.0.0",
+  "description": "Scraper to find lowest hotel price across booking platforms",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.3",
+    "dotenv": "^16.3.1",
+    "puppeteer": "^25.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/puppeteer": "^5.4.7",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}
